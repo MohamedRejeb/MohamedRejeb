@@ -5,7 +5,7 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=m0coding&show_icons=true&locale=en" alt="m0coding" /></p>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m0coding&show_icons=true&locale=en&layout=compact" alt="m0coding" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=m0coding&show_icons=true&locale=en&layout=compact" alt="m0coding" /></p>
 
 
 
