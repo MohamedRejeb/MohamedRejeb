@@ -9,6 +9,6 @@
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=m0coding&label=Profile%20views&color=0e75b6&style=flat" alt="m0codinge" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=m0coding&label=Profile%20views&color=0e75b6&style=flat" alt="m0codinge" /> </p> -->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m0coding" alt="m0coding" /></a> </p>
