@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ben Rjeb</h1>
-<h3 align="center">Mobile Team Lead, Interseted in Kotlin Multiplatform.</h3>
+<h1 align="center">Hi 👋, I'm Mohamed Ben Rejeb</h1>
+<h3 align="center">Android Developer, Interseted in Kotlin Multiplatform.</h3>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=m0coding&show_icons=true&locale=en" alt="m0coding" /></p>
 
