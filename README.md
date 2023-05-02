@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ben Rejeb</h1>
 <h3 align="center">Android Developer, Interseted in Kotlin Multiplatform.</h3>
 
+<p align="center"><a href="https://github.com/MohamedRejeb"><img alt="Profile" src="https://github.com/MohamedRejeb/MohamedRejeb/blob/main/badges/mohamedrejeb.svg"/></a></p>
+
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohamedrejeb&show_icons=true&locale=en" alt="MohamedRejeb" /></p>
 
 
