@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ben Rejeb</h1>
-<h3 align="center">Android Developer, Interseted in Kotlin Multiplatform.</h3>
+<h3 align="center">Kotlin tech lead at Softylines.</h3>
 
 <p align="center"><a href="https://github.com/MohamedRejeb"><img alt="Profile" src="https://github.com/MohamedRejeb/MohamedRejeb/blob/main/badges/mohamedrejeb.svg"/></a></p>
 
